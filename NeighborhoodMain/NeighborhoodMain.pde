@@ -218,7 +218,7 @@ void keyboardImput() {
     sunrise = false;
     flashlight = false;
   }
-  if (key == 'e') {
+  if (key == 'e' && moonrise) {
     moonrise = false;
     sunrise = false;
     flashlight = true;
