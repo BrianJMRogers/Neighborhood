@@ -4,7 +4,7 @@
 
 ---
 ## Downloading and Running
-1. .** Getting Processing**
+1. **Getting Processing**
   1. Visit ```https://processing.org/download/```.
   2. Select donation amount (not necessary to donate).
   3. Click download.
