@@ -23,4 +23,4 @@
 
 ---
 ## Other Information
-1. Unfortunately Processing is not meant to render large 3D environments. The frame rate is very poor which is disappointing.
+1. Unfortunately Processing is not meant to render large 3D environments. Thus the frame rate is disappointingly poor.
